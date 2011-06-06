@@ -3,7 +3,7 @@
 int main (int argc, const char * argv[]) {
     NSAutoreleasePool * pool = [[NSAutoreleasePool alloc] init];
 
-    NSLog(@"Penis i spolka podbijaja swiat");
+    NSLog(@"HANBDA!! SKANDAL!!");
     [pool drain];
     return 0;
 }
